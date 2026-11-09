@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- زر Zero -->
+    <color name="zero_inactive">#808080</color>
+    <color name="zero_active">#FF9800</color>
+
+    <!-- زر Count -->
+    <color name="count_odd">#4CAF50</color>
+    <color name="count_even">#2196F3</color>
+</resources>
